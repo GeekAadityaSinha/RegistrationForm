@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.bg color{
+    background-color: aquamarine;
+}
+form {
+    margin-bottom: 20px;
+}
+
+.output {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f5f8f9;
+}
